@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/educase/static/js/main.7d72058c.chunk.js",
+    "main.js.map": "/educase/static/js/main.7d72058c.chunk.js.map",
+    "runtime~main.js": "/educase/static/js/runtime~main.c5d48201.js",
+    "runtime~main.js.map": "/educase/static/js/runtime~main.c5d48201.js.map",
+    "static/js/2.72eac5a6.chunk.js": "/educase/static/js/2.72eac5a6.chunk.js",
+    "static/js/2.72eac5a6.chunk.js.map": "/educase/static/js/2.72eac5a6.chunk.js.map",
+    "index.html": "/educase/index.html",
+    "precache-manifest.1c2c9cccb740436d19f2120b88ea936c.js": "/educase/precache-manifest.1c2c9cccb740436d19f2120b88ea936c.js",
+    "service-worker.js": "/educase/service-worker.js"
+  }
+}

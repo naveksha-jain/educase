@@ -24,11 +24,11 @@ import EduSocial from "../screens/edusocial";
 class RootNavigator extends Component {
 
   render() {
-
+console.log("I am being calllllled>>>>>>>>>>>")
     return (
       <>
      
-     <Router>
+     <Router basename={window.location.pathname || ''}>
       
          <Switch>
            <Route exact path='/' component={Home} />

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6542f3e69945bb1d42d066c549dbd61b",
+    "revision": "24153ab438fb06eb6879d8393b869d40",
     "url": "/educase/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educase/static/js/2.72eac5a6.chunk.js"
   },
   {
-    "revision": "3914ac2825c8beb5b984",
-    "url": "/educase/static/js/main.7d72058c.chunk.js"
+    "revision": "7a33ac64ed52f7947cc6",
+    "url": "/educase/static/js/main.6eb8621a.chunk.js"
   },
   {
     "revision": "d9b8c53b491c0ed12c5f",
